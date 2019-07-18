@@ -192,3 +192,5 @@ add_executable(secondExe "src/main2.cpp")
 # enable_testing()
 
 # add_test(NAME mytest COMMAND mytest --option)
+
+include(CPack)
